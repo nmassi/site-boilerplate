@@ -1,8 +1,7 @@
 # Boilerplate for static sites
 
-  html5
-  css (no preprocessor)
-  browser-sync
+- html5
+- css (no preprocessor)
+- browser-sync
   
-npm install
-npm start
+npm install && npm start
