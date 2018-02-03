@@ -1,0 +1,29 @@
+{
+  "name": "site-boilerplate",
+  "version": "1.0.0",
+  "description": "a boilerplate for start prototyping in the browser",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmassi/site-boilerplate.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "browsersync",
+    "static",
+    "boilerplate"
+  ],
+  "author": "Nicolas Massi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmassi/site-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nmassi/site-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
