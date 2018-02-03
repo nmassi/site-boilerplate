@@ -1,7 +1,7 @@
-# Boilerplate for static sites
+# Boilerplate for prototyping in the browser
 
-- html5
-- css (no preprocessor)
-- browser-sync
-  
+- HTML5
+- CSS (no preprocessor)
+- Browser-Sync
+
 npm install && npm start
