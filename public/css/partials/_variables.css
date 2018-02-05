@@ -1,0 +1,21 @@
+:root {
+  --font-family-base: Arial;
+  --font-size-base: 16px;
+  --font-weight-base: 0;
+  --line-height-base: 1.5;
+  --body-color: black;
+  --body-bg: white;
+
+  --headings-margin-bottom: 1rem;
+  --paragraph-margin-bottom: 1rem;
+  --dt-font-weight: 14px;
+
+  --link-color: red;
+  --link-decoration: none;
+  --link-hover-color: brown;
+  --link-hover-decoration: underline;
+
+  --table-cell-padding: 0.5rem;
+  --table-cell-padding: 0.5rem;
+  --text-muted: silver;
+}
