@@ -4,14 +4,19 @@
   "description": "a boilerplate for start prototyping in the browser",
   "main": "main.js",
   "scripts": {
-    "start":
-      "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --port 7777 --browser 'Firefox Developer Edition'"
+    "start": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --port 7777 --browser 'Firefox Developer Edition'"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nmassi/site-boilerplate.git"
   },
-  "keywords": ["css", "html", "browsersync", "static", "boilerplate"],
+  "keywords": [
+    "css",
+    "html",
+    "browsersync",
+    "static",
+    "boilerplate"
+  ],
   "author": "Nicolas Massi",
   "license": "ISC",
   "bugs": {

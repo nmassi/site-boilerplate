@@ -1,5 +1,8 @@
 :root {
-  --font-family-base: Arial;
+  --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+
   --font-size-base: 16px;
   --font-weight-base: 0;
   --line-height-base: 1.5;
